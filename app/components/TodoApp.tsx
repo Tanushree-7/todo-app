@@ -109,7 +109,7 @@ export default function TodoApp() {
   return (
     <div className="w-full max-w-md mx-auto">
       <h1 className="text-3xl font-bold text-center mb-6 text-slate-800 dark:text-slate-100">
-        My To-Do List
+        My To-Do List - Dev Version
       </h1>
 
       {error && (
